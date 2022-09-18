@@ -5,6 +5,86 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
+.picturerouded {
+  border-radius: 50%;
+}
+.bluetext {
+  color: "blue";
+  background-color: black;
+}
+.l {
+  padding-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.ko {
+  height: "200px";
+  width: "400px";
+}
+.picsize {
+  height: 230px;
+  width: 240px;
+}
+.contactmetext{
+  color:#8833ff;
+ 
+
+}
+.skilltext {
+  color: #8833ff;
+  font-size: 20px;
+}
+.picsize2 {
+  border-radius: 5%;
+  width: 350px;
+  height: 220px;
+}
+.selfpicborder{
+  border-radius: 100%;
+  border:solid 5px #0000ff;
+
+  
+}
+.sdsds {
+  min-height: "100%";
+}
+.orangetext {
+  color: #ff8000;
+  font-size: 25px;
+}
+.sda {
+  padding-top: 20px;
+}
+.rgbbox {
+  height: 150%;
+  width: 80%;
+  border: solid 10px white;
+  border-color: rgb(117, 52, 196);
+  background: linear-gradient(
+    90deg,
+    rgba(86, 139, 217, 1) 14%,
+    rgba(72, 65, 96, 1) 53%,
+    rgba(92, 47, 144, 1) 100%
+  );
+}
+.l{
+  height: 100vh;
+}
+.y {
+  border-radius: 25%;
+  height: 280px;
+  width: 400px;
+}
+.sdsd {
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  color: #ff8000;
+  font-size: 25px;
+}
+.view {
+  width: 100vw;
+  height: 100vh;
+}
 
 a {
   color: inherit;
@@ -14,3 +94,21 @@ a {
 * {
   box-sizing: border-box;
 }
+font-size {
+  font-size: "45px";
+}
+.g {
+  font-size: 40px;
+  text-align: center;
+}
+.j {
+  font-size: "20px";
+}
+.l {
+  font-size: "20px";
+}
+
+.orangecolor {
+  color: "#ff8000";
+}
+
