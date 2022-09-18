@@ -19,4 +19,6 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-(ใส่ URL ที่นี่)
+(build sandbox ไม่ได้!)
+sandbox link || https://codesandbox.io/p/github/cpe-cmu-261207/lab-09-peela123/draft/stoic-archimedes?file=%2FREADME.md
+
